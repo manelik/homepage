@@ -48,7 +48,7 @@ a:hover {
 	width: 800px;
 	height: 150px;
 	margin: 0px auto;
-	background: url(images/img01.jpg) no-repeat left top;
+	background: url(images/img01.png) no-repeat left top;
 }
 
 #header h1, #header h2 {
@@ -75,7 +75,7 @@ a:hover {
 	width: 800px;
 	height: 50px;
 	margin: 0px auto;
-	background: url(images/img02.jpg) no-repeat left top;
+	background: url(images/img02.png) no-repeat left top;
 }
 
 #menu ul {
@@ -181,7 +181,7 @@ a:hover {
 	margin: 0px auto;
 	padding-top: 13px;
 	border-top: 1px solid #444444;
-	background: url(images/img03.jpg) no-repeat left top;
+	background: url(images/img03.png) no-repeat left top;
 	text-transform: uppercase;
 	font-size: 10px;
 	color: #E5E5CC;
