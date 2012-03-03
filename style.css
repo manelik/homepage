@@ -26,6 +26,7 @@ h1, h2, h3 {
 
 p, ul, ol {
 	margin-bottom: 1.5em;
+	line-height: 20px;
 }
 
 ul {
@@ -159,6 +160,9 @@ a:hover {
 	padding-right: 20px;
 }
 
+#right p {
+    line-height: 18px;
+} 
 
 #right ul {
 	margin: 15px 0 0 0;
@@ -168,7 +172,8 @@ a:hover {
 
 #right li {
 	padding-left: 10px;
-	background: url(images/img04.gif) no-repeat left 50%;
+	list-style: none;
+	background: url(images/img04.gif) no-repeat left 10px;
 }
 
 
