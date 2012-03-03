@@ -117,6 +117,7 @@ a:hover {
 	width: 800px;
 	margin: 0px auto;
 	padding-top: 25px;
+
 }
 
 #content h2 {
@@ -174,6 +175,7 @@ a:hover {
 	padding-left: 10px;
 	list-style: none;
 	background: url(images/img04.gif) no-repeat left 10px;
+	line-height: 18px;
 }
 
 
